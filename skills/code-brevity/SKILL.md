@@ -1,6 +1,13 @@
 ---
 name: code-brevity
-description: Ruthlessly apply YAGNI and KISS to a specified source module or file: automatically remove low-risk accidental complexity, dead indirection, repetition, and speculative machinery while preserving behavior and readability, then expose larger opportunities to dismantle Architecture Theater. Use when asked to clean up, simplify, shorten, modernize, make idiomatic, reduce duplication, challenge abstractions, or improve an existing code file or module.
+description: >-
+  Ruthlessly apply YAGNI and KISS to a specified source module or file:
+  automatically remove low-risk accidental complexity, dead indirection,
+  repetition, and speculative machinery while preserving behavior and
+  readability, then expose larger opportunities to dismantle Architecture
+  Theater. Use when asked to clean up, simplify, shorten, modernize, make
+  idiomatic, reduce duplication, challenge abstractions, or improve an existing
+  code file or module.
 ---
 
 # Code Brevity
