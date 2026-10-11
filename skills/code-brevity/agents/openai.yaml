@@ -1,7 +1,7 @@
 interface:
   display_name: "Code Brevity"
   short_description: "Apply YAGNI and KISS, then challenge architecture"
-  default_prompt: "Use $code-brevity to ruthlessly simplify the specified module with YAGNI and KISS, then show larger Architecture Theater teardown opportunities."
+  default_prompt: "Use $code-brevity to simplify the specified module with YAGNI and KISS, then show larger Architecture Theater teardown opportunities."
 
 policy:
   allow_implicit_invocation: false
