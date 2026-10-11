@@ -1,0 +1,7 @@
+interface:
+  display_name: "Test Brevity"
+  short_description: "Prune tests to useful application guarantees"
+  default_prompt: "Use $test-brevity to evaluate every test in the requested scope, delete Test Theater, and retain the smallest suite that protects concrete application behavior."
+
+policy:
+  allow_implicit_invocation: false
